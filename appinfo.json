@@ -1,0 +1,17 @@
+{
+  "uuid": "577e0b9d-701f-4191-b60e-6551a99dabb9",
+  "shortName": "Hello World!",
+  "longName": "Hello World pebble application",
+  "companyName": "Kristofvc",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
